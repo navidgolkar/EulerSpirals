@@ -1,5 +1,5 @@
 # EulerSpirals
-A visual displaying of Euler spiral using processing.js
+A visual displaying of Euler spiral using java processing
 <p>!ATTENTION: this code was written using Processing Java, go to the link below and download the program for running the program smoothly.</br>I've uploaded uploaded some pictures to show the program
 <br><a href="processing.org">processing.org</a></p>
 <p>
