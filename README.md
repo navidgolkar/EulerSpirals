@@ -17,11 +17,11 @@ You can use the following keyboard buttons in the program:
 </p>
 <table>
   <tr>
-    <td><img src="EulerSpiral_number1000000_angle=0.69_length=0.6.png" alt="iteration=1000000 angle=0.69 length=0.6" width="400" height="400"></td>
-    <td><img src="EulerSpiral_number1100000_angle=-0.87_length=0.6.png" alt="iteration=1100000 angle=-0.87 length=0.6" width="400" height="400"></td>
+    <td><img src="images/EulerSpiral_number1000000_angle=0.69_length=0.6.png" alt="iteration=1000000 angle=0.69 length=0.6" width="400" height="400"></td>
+    <td><img src="images/EulerSpiral_number1100000_angle=-0.87_length=0.6.png" alt="iteration=1100000 angle=-0.87 length=0.6" width="400" height="400"></td>
   </tr>
   <tr>
-    <td><img src="EulerSpiral_number600000_angle=-0.87_length=0.7.png" alt="iteration=600000 angle=-0.87 length=0.7" width="400" height="400"></td>
-    <td><img src="EulerSpiral_number800000_angle=1.13_length=0.9.png" alt="iteration=800000 angle=1.13 length=0.9" width="400" height="400"></td>
+    <td><img src="images/EulerSpiral_number600000_angle=-0.87_length=0.7.png" alt="iteration=600000 angle=-0.87 length=0.7" width="400" height="400"></td>
+    <td><img src="images/EulerSpiral_number800000_angle=1.13_length=0.9.png" alt="iteration=800000 angle=1.13 length=0.9" width="400" height="400"></td>
   </tr>
 </table>
